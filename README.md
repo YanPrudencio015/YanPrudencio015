@@ -33,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanPrudencio015)](https://github.com/anuraghazra/github-readme-stats)
 
-### Programação se tornou uma das melhores descobertas que fiz nos últimos. Uma fonte de conhecimento e desafios sem fim. Isso me deixa animado 
+
