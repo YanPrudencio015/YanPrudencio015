@@ -5,7 +5,7 @@
 ### Olá, me chamo Yan 🤙 como vai ?
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-pereira-dev/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGldLcJLJRTMcBwDqcVWmqXzzmJCqhwTcfmRZxXZhPFWMnmtmGbCJmspkhzcMnzkdVfdB](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXMJRXnVKMNRJkbHvkfvSMSmqpMJnGWJGLZKxlXXgVfDsbmWWsSFGrvHMDNRxDFHBKtsw))
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([[https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGldLcJLJRTMcBwDqcVWmqXzzmJCqhwTcfmRZxXZhPFWMnmtmGbCJmspkhzcMnzkdVfdB](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXMJRXnVKMNRJkbHvkfvSMSmqpMJnGWJGLZKxlXXgVfDsbmWWsSFGrvHMDNRxDFHBKtsw)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXMJRXnVKMNRJkbHvkfvSMSmqpMJnGWJGLZKxlXXgVfDsbmWWsSFGrvHMDNRxDFHBKtsw))
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://yan-portfolio-zeta.vercel.app/)
 
 ![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=YanPrudencio015&show_icons=true&theme=radical )
